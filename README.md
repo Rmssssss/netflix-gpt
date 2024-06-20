@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
+// firebase authentication link 
+///https://console.firebase.google.com/u/0/project/netflixgpt-f2252/overview
